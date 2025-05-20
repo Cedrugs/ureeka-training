@@ -53,7 +53,7 @@ The portfolio app consists of three main pages: Home, About, and Contact. The de
    ![Home Page Screenshot](https://cdn-gcs.samuelcedric.com/ureeka-training/Sesi%203/home_page.png)
 
 2. **About Page:**
-   ![About Page Screenshot](https:///cdn-gcs.samuelcedric.com/ureeka-training/Sesi%203/about_page.png)
+   ![About Page Screenshot](https://cdn-gcs.samuelcedric.com/ureeka-training/Sesi%203/about_page.png)
 
 3. **Contact Page:**
    ![Contact Page Screenshot](https://cdn-gcs.samuelcedric.com/ureeka-training/Sesi%203/contact.png)
