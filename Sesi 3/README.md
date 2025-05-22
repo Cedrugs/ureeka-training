@@ -1,4 +1,4 @@
-# Sesi 3
+# Week 3
 
 A simple portfolio application developed as part of Week 3 requirements for Ureeka training. This app showcases proficiency in using Next.js, Tailwind CSS, and shadcn, and features a clean and modern design.
 
